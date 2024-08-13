@@ -1,0 +1,6 @@
+Strings in Python
+=> Sequence of Characters enclosed with 
+    - single Quotes (' ')
+    - Or Double Quotes (" ")
+    - Or Triple Quotes (''' '''): especially for multi-line strings. 
+    //Here, triple quotes means, triple apostrophe(''' ''')
