@@ -1,0 +1,24 @@
+Data Types in Python 
+=> Every variable in Python, associated with Data Types
+=> integers, float, boolean, string, 
+Integers
+=> Whole numbers, positive, negative, zero
+=> non decimal numbers
+=> 1000, 50, 25, 0, -345, etc.
+
+Float numbers
+=> Decimal Numbers,
+=> 23.56, 89.01, etc. 
+
+Boolean values
+=> True, False
+=> either true or False
+=> decisional value 
+
+String Values
+=> sequence of characters
+=> enclosed in single quotes or double quotes or triple quotes
+
+Complex values
+=> used for complex numbers
+=> in the form, x=a+bj
