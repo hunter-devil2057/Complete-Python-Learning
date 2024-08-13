@@ -1,0 +1,18 @@
+Tokens in Python 
+=> Smallest meaningful component in the program.
+=> Keywords, Identifiers, Literals, Operators, are Tokens
+    Keywords: 
+    - pre-defined words. 
+    - specially reserved words. 
+    - can't be used as variable, function or class name. 
+
+    Identifiers 
+    - names used for variable, object or function 
+        Rules: 
+        - No Special Characters, except underscore(_)
+        - Identifiers are case-sensitive
+        - First Letter cannot be digit. 
+    
+    Literals
+    - constants in python
+    - values does not get changed
