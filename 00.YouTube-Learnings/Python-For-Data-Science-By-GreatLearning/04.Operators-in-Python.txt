@@ -1,0 +1,21 @@
+Operators in Python - 3 types 
+- Arithmetic Operators 
+- Relational Operators
+- Logical Operators
+
+Arithmetic Operators
+=> Addition(+), Subtraction(-), Multiplication(*), Division(/), Remainder(%)
+=> used for performing arithmetic operations
+
+Relational Operators
+=>
+    - Less than(<)
+    - Greater than(>)
+    - Equals to (==)
+    - Not Equals to (!=)
+
+
+Logical Operators: 
+=>
+    - AND ( & )
+    - OR ( | )
