@@ -1,0 +1,8 @@
+            Variables-In-Python
+=> container for storing data/values 
+=> temporary storage space for storing value/data
+
+For Example: 
+studentName="Manish Shiwakoti"     (if string, we use " " or ' ')
+studentAge=20  (if int/float or numeric value, we don't use " " or ' ')
+isStudent=True (Boolean Value)
