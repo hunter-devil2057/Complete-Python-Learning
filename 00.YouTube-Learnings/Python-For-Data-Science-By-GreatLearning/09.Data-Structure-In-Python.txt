@@ -1,0 +1,29 @@
+Data Structures in Python 
+=> Tuples 
+=> Lists 
+=> Dictionary 
+=> Set
+
+Tuple
+    - ordered collection of elements enclosed within ( )
+    - can store heterogeneous (different data type elements)
+        Eg: tup1=(1, True, 'John')        #tuple
+    - are immutable (values can't be changed/modified)
+    - elements are permanent 
+
+List
+    - ordered collection of elements enclosed within [ ]
+    - are mutable (value can be easily changed/modified, by using their address/index)
+    - elements may not permanent 
+    - can store heterogeneous (different data type elements)
+        Eg: num=[12, 1, 41, 98, 34, 49, 99]
+
+Dictionary
+    - unordered collection of key-pair values enclosed within { }
+    - are mutable (values can be easily changed/modified)
+        Eg: FruitOld={"Mango":200, "Apple":120, "Banana":100, "Guava":80}
+
+Set
+    - unordered and unindexed collection of elements enclosed within { }
+    - Duplicates are not allowed. 
+    - Gets stored in Random Order.
